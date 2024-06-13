@@ -1,4 +1,4 @@
-### Hello, my name is Emanuel Martins. I am currently pursuing a degree in Computer Science. Born in 2003, I have always been passionate about technology and its potential to transform our world. I have a strong interest in information security, as well as front-end and back-end development.  🔥✅
+### print("Hello, my name is Emanuel Martins.")
 
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/MartinesEmanuel)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuelmartineis/)
